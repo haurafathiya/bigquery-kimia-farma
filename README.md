@@ -35,7 +35,7 @@ Query ini dibuat khusus untuk keperluan tugas internship dan dapat digunakan seb
 
 3. **Menjalankan Query**  
    - Copy-paste query dari `kimia_farma_query.sql` ke dalam editor BigQuery.  
-   - Sesuaikan nama dataset dan tabel jika diperlukan.  
+   - Sesuaikan **nama dataset dan tabel** jika diperlukan.  
    - Klik tombol **Run** untuk mengeksekusi query.  
 
 4. **Menganalisis Hasil**  
