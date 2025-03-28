@@ -28,7 +28,7 @@ Query ini dibuat khusus untuk keperluan tugas internship dan dapat digunakan seb
    - Buka [Google BigQuery Console](https://console.cloud.google.com/bigquery).  
    - Pilih project yang sesuai.  
    - Buka tab **Editor** dan unggah file `kimia_farma_query.sql`.
-   - [Lihat Repository](https://github.com/haurafathiya/kimia_farma_query.sql)
+   - [Lihat Repository](https://github.com/haurafathiya/bigquery-kimia-farma/blob/main/kimia_farma_query.sql)
 
 3. **Menjalankan Query**  
    - Copy-paste query dari `kimia_farma_query.sql` ke dalam editor BigQuery.  
