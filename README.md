@@ -9,8 +9,8 @@ Query ini dibuat sebagai bagian dari **Final Task Internship** dan dirancang unt
 - **Keuntungan bersih** Kimia Farma setelah diskon dan laba kotor  
 
 ### Akses Repository  
-Repository ini dapat diakses di [GitHub](https://github.com/haurafathiya/bigquery-kimia-farma).
-File query utama dapat langsung dilihat [di sini](https://github.com/haurafathiya/bigquery-kimia-farma/blob/main/kimia_farma_query.sql)
+- Repository ini dapat diakses di [GitHub](https://github.com/haurafathiya/bigquery-kimia-farma).
+- File query utama dapat langsung dilihat [di sini](https://github.com/haurafathiya/bigquery-kimia-farma/blob/main/kimia_farma_query.sql).
 
 ## Struktur File  
 - `kimia_farma_query.sql` → Berisi query utama untuk analisis  
