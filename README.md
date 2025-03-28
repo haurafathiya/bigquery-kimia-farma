@@ -10,6 +10,7 @@ Query ini dibuat sebagai bagian dari **Final Task Internship** dan dirancang unt
 
 ### Akses Repository  
 Repository ini dapat diakses di [GitHub](https://github.com/haurafathiya/bigquery-kimia-farma).
+File query utama dapat langsung dilihat [di sini](https://github.com/haurafathiya/bigquery-kimia-farma/blob/main/kimia_farma_query.sql)
 
 ## Struktur File  
 - `kimia_farma_query.sql` → Berisi query utama untuk analisis  
@@ -30,7 +31,7 @@ Query ini dibuat khusus untuk keperluan tugas internship dan dapat digunakan seb
 2. **Mengimpor Query**  
    - Buka [Google BigQuery Console](https://console.cloud.google.com/bigquery).  
    - Pilih project yang sesuai.  
-   - Buka tab **Editor** dan unggah file `kimia_farma_query.sql` atau [lihat kode query di sini](https://github.com/haurafathiya/bigquery-kimia-farma/blob/main/kimia_farma_query.sql).
+   - Buka tab **Editor** dan unggah file `kimia_farma_query.sql` atau copy-paste langsung kodenya.
 
 3. **Menjalankan Query**  
    - Copy-paste query dari `kimia_farma_query.sql` ke dalam editor BigQuery.  
