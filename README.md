@@ -37,4 +37,3 @@ Query ini dibuat khusus untuk keperluan tugas internship dan dapat digunakan seb
 
 4. **Menganalisis Hasil**  
    - Setelah query selesai dieksekusi, hasil analisis akan muncul di panel **Results**.  
-   - Data ini bisa diekspor ke Google Sheets, CSV, atau digunakan dalam laporan lebih lanjut.
