@@ -1,42 +1,59 @@
-# bigquery-kimia-farma  
+# 📊 Big Data Analytics — Kimia Farma x Rakamin Academy
 
-Repository ini berisi query BigQuery untuk analisis transaksi di Kimia Farma.  
+Project-based virtual internship in Big Data Analytics, completed as part of the Kimia Farma x Rakamin Academy program (Mar–Apr 2025).
 
-## Deskripsi  
-Query ini dibuat sebagai bagian dari **Final Task Internship** dan dirancang untuk menghitung:  
-- **Persentase Gross Laba** berdasarkan harga obat  
-- **Harga setelah diskon**  
-- **Keuntungan bersih** Kimia Farma setelah diskon dan laba kotor  
+---
 
-### Akses Repository  
-- Repository ini dapat diakses di [GitHub](https://github.com/haurafathiya/bigquery-kimia-farma).
-- File query utama dapat langsung dilihat [di sini](https://github.com/haurafathiya/bigquery-kimia-farma/blob/main/kimia_farma_query.sql).
+## 🔍 Overview
 
-## Struktur File  
-- `kimia_farma_query.sql` → Berisi query utama untuk analisis  
+This project analyzes Kimia Farma's transaction data using **Google BigQuery** and **SQL** to uncover business insights around sales performance, discount impact, and customer transaction patterns.
 
-## Penggunaan  
-Query ini dibuat khusus untuk keperluan tugas internship dan dapat digunakan sebagai referensi. Jika ingin menggunakannya untuk keperluan lain, harap berikan kredit yang sesuai.  
+Key outputs:
+- SQL queries for data extraction and transformation
+- Analysis of gross profit margins per product price range
+- Net profit calculation after discount and markup
+- Interactive KPI dashboard built in **Looker Studio**
 
-## Lisensi  
-⚠️ Repository ini hanya untuk dokumentasi tugas internship dan **tidak untuk penggunaan komersial**.
+---
 
+## 🛠️ Tools & Technologies
 
-## Cara Menggunakan
+| Tool | Purpose |
+|------|---------|
+| Google BigQuery | Data querying & processing |
+| SQL | Data transformation & analysis |
+| Looker Studio | Dashboard & data visualization |
 
-1. **Persiapan**  
-   - Pastikan Anda memiliki akses ke Google Cloud Platform (GCP) dan sudah mengaktifkan BigQuery.  
-   - Pastikan dataset transaksi Kimia Farma sudah tersedia di BigQuery.  
+---
 
-2. **Mengimpor Query**  
-   - Buka [Google BigQuery Console](https://console.cloud.google.com/bigquery).  
-   - Pilih project yang sesuai.  
-   - Buka tab **Editor** dan unggah file `kimia_farma_query.sql` atau copy-paste langsung kodenya.
+## 📁 Files
 
-3. **Menjalankan Query**  
-   - Copy-paste query dari `kimia_farma_query.sql` ke dalam editor BigQuery.  
-   - Sesuaikan **nama dataset dan tabel** jika diperlukan.  
-   - Klik tombol **Run** untuk mengeksekusi query.  
+| File | Description |
+|------|-------------|
+| `kimia_farma_query.sql` | Main SQL query for transaction analysis |
 
-4. **Menganalisis Hasil**  
-   - Setelah query selesai dieksekusi, hasil analisis akan muncul di panel **Results**.  
+---
+
+## 📌 Key Analysis
+
+- **Gross profit percentage** calculated based on product price tiers
+- **Post-discount price** and **net profit** per transaction
+- Sales performance trends across branches and time periods
+- Customer transaction pattern analysis
+
+---
+
+## 🚀 How to Use
+
+1. Open [Google BigQuery Console](https://console.cloud.google.com/bigquery)
+2. Import or paste the contents of `kimia_farma_query.sql` into the query editor
+3. Adjust dataset and table names to match your project
+4. Run the query and explore results
+
+---
+
+## 👤 Author
+
+**Haura Fathiya Alya Kusuma**  
+Data Science Student · Insan Cita Indonesia University  
+[LinkedIn](https://www.linkedin.com/in/haurafathiya1004)
