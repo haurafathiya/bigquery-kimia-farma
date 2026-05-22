@@ -30,7 +30,7 @@ Key outputs:
 
 | File | Description |
 |------|-------------|
-| `kimia_farma_query.sql` | Main SQL query for transaction analysis |
+| [`kimia_farma_query.sql`](kimia_farma_query.sql) | Main SQL query for transaction analysis |
 
 ---
 
